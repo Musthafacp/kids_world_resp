@@ -143,3 +143,46 @@ nav{
 .new{
     font-family: 'Old Standard TT', serif;
 }
+
+@media all and (max-width:700px){
+    .books{
+        display: grid;
+        justify-content: center;
+        text-align: center;
+    }
+    .new{
+        font-size: 100px;
+    }
+    .first-book{
+        margin-top: 30px;
+    }
+    .second-book{
+        margin-top: 30px;
+    }
+    .third-book{
+        margin-top: 30px;
+    }
+    .fourth-book{
+        margin-top: 30px;
+    }
+    .fifth-book{
+        margin-top: 30px;
+    }
+    .sixth-book{
+        margin-top: 30px;
+    }
+    .games{
+        display: block;
+        justify-content: center;
+        text-align: center;
+    }
+    .first-game{
+        margin-top: 30px;
+    }
+    .footer h2{
+        font-size: 25px;
+    }
+    .footer{
+        justify-content: space-between;
+    }
+}
