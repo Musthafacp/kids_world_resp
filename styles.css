@@ -94,8 +94,7 @@ nav{
 .new-games{
     margin-top: 50px;
     margin: 90px;
-    display: grid;
-    justify-content: center;
+
 }
 .new-games h2{
     margin-top: 150px;
