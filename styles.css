@@ -153,6 +153,13 @@ nav{
     .new{
         font-size: 100px;
     }
+    .heading{
+        position: relative;
+        left: 5px;
+    }
+    .cart-items{
+        right:15px;
+    }
     .first-book{
         margin-top: 30px;
     }
